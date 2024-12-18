@@ -1,0 +1,25 @@
+{
+  "users": [
+    {
+      "id": "4d95",
+      "username": "testing",
+      "email": "testing@gmail.com",
+      "password": "testing"
+    },
+    {
+      "id": "3b55",
+      "username": "testing",
+      "email": "testing1@gmail.com",
+      "password": "testing"
+    }
+  ],
+  "products": [
+    {
+      "id": "58ef",
+      "title": "test",
+      "price": "435",
+      "img": "https://cdn.pixabay.com/photo/2015/04/23/22/00/tree-736885_1280.jpg"
+    }
+  ],
+  "carts": []
+}
